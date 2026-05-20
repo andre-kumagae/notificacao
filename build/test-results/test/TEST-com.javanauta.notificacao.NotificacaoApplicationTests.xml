@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.javanauta.notificacao.NotificacaoApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-05-17T11:20:26.240Z" hostname="KUMA" time="2.204">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.javanauta.notificacao.NotificacaoApplicationTests" time="0.562"/>
+  <system-out><![CDATA[08:20:26.412 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.javanauta.notificacao.NotificacaoApplicationTests]: NotificacaoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+08:20:26.491 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.javanauta.notificacao.NotificacaoApplication for test class com.javanauta.notificacao.NotificacaoApplicationTests
+08:20:26.566 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.javanauta.notificacao.NotificacaoApplicationTests]: NotificacaoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+08:20:26.568 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.javanauta.notificacao.NotificacaoApplication for test class com.javanauta.notificacao.NotificacaoApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.6)
+
+2026-05-17T08:20:26.891-03:00  INFO 6608 --- [    Test worker] c.j.n.NotificacaoApplicationTests        : Starting NotificacaoApplicationTests using Java 17.0.17 with PID 6608 (started by Andre in C:\Users\Andre\git-codes\meus-repos\projetos\projeto-agendador-de-tarefas\notificacao)
+2026-05-17T08:20:26.892-03:00  INFO 6608 --- [    Test worker] c.j.n.NotificacaoApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2026-05-17T08:20:27.872-03:00  INFO 6608 --- [    Test worker] c.j.n.NotificacaoApplicationTests        : Started NotificacaoApplicationTests in 1.249 seconds (process running for 2.368)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
